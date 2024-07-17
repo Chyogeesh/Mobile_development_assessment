@@ -48,3 +48,11 @@ Submission:
 Zip all relevant code files including the README.md.
 Name the zip file using the format [Your Name]_MobileDevAssessment.zip.
 Submit the zip file according to the provided instructions.
+To create the Mobile Basketball Player Card Screen using React Native as per your assignment, follow these steps. I'll outline the basic structure and functionality you need to implement:
+
+Step-by-Step Guide
+1. Setup
+First, ensure you have Node.js, npm (or yarn), and React Native CLI installed. If not, you can set up React Native by following the official documentation.
+
+2. Create Project
+Create a new React Native project using the following commands:
