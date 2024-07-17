@@ -49,6 +49,27 @@ Zip all relevant code files including the README.md.
 Name the zip file using the format [Your Name]_MobileDevAssessment.zip.
 Submit the zip file according to the provided instructions.
 To create the Mobile Basketball Player Card Screen using React Native as per your assignment, follow these steps. I'll outline the basic structure and functionality you need to implement:
+Styling and Testing
+Customize the styles in PlayerCardScreen.js to suit your design preferences.
+Test the application on both iOS and Android emulators/simulators to ensure responsiveness and functionality.
+6. Documentation
+Create a README.md file in your project root directory with instructions on how to:
+
+Set up the project.
+Run the project on iOS and Android.
+Any additional notes or considerations.
+7. Submission
+Zip all relevant code files (src/PlayerCardScreen.js, App.js, etc.).
+Include the README.md file in the zip archive.
+Name the zip file as [Your Name]_MobileDevAssessment.zip.
+Submit the zip file according to the submission guidelines provided.
+This setup will help you create a basic Mobile Basketball Player Card Screen using React Native, fulfilling the requirements of your assessment task. Adjustments can be made based on additional requirements or design preferences. If you have any further questions or need clarifications, feel free to ask!
+
+
+
+
+
+
 
 Step-by-Step Guide
 1. Setup
